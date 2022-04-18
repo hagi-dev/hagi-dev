@@ -1,58 +1,43 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hola, Soy hagi 👋 soy un 🚀 full stack developer y diseño de inetrfaces 🚀 me gusta la tecnologia">
-</p>
+## Hola 👋, Soy Hagi!
+<a href='https://www.linkedin.com/in/hagitorres/'><img align='left' alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height='18px'/></a>
+<a href='https://www.behance.net/hagitorresmacedo'><img align='left' alt="twitter" src="https://www.citypng.com/public/uploads/preview/-31622227018ldvcsx8gnp.png" height='18px'/></a>
+<a href='https://platzi.com/p/hagi-rai-torres-macedo/'><img alt="kaggle" src="https://static.platzi.com/media/blog/unnamed-8089fc33-6322-4bd3-85de-1da032257d4b.png" height='18px'/></a>
 
-<!--
-How to make this gif ?
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
 
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
--->
 
-## Blog
+Soy programador full stack 🌐, UX/UI design 🎨 y analista de sistemas  🤖, Experiencia trabajando con NODEJS, REACTJS, REDUX, SQL, FIGMA, PHP, JAVA y C# entre otras tecnologías del sector 💻 y además de colaborar con un proyecto de E-commerce de una galería de pinturas de las cuales mi rol era la de análisis y creación de las interfaces 🛠️. 
+<br/>
+<br/>
 
-<!-- BLOG-POST-LIST:START -->
-- [Crypto Tracker](https://blog.darkwood.fr/article/crypto-tracker)
-- [Self-host n8n with AWS Lightsail, pm2 and caddy server](https://blog.darkwood.fr/article/self-host-n8n-with-aws-lightsail-pm2-and-caddy-server)
-- [Vie privée Numérique](https://blog.darkwood.fr/article/vie-privee-numerique)
-- [Les Monades et leur utilisation en PHP](https://blog.darkwood.fr/article/les-monades-et-leur-utilisation-en-php)
-- [Hackathon no-code de la French Tech Grande Provence](https://blog.darkwood.fr/article/hackathon-no-code-de-la-french-tech-grande-provence)
-<!-- BLOG-POST-LIST:END -->
+  
+### 🧐 More About Me:
 
-## Links
+- 🔭 &nbsp;actualmente trabajo en  **gallery art E-commerce**
+- 🌱 &nbsp; actualmente estoy aprendiendo Typescript y Angular; 
+- 👨🏻‍💻 &nbsp; estos son mis proyectos [Github](https://github.com/hagi-dev?tab=repositories)
+- 🎨🏻‍💻 &nbsp; estos son mis diseños de interfaces [Behance](https://www.behance.net/hagitorresmacedo)
+- 💬 &nbsp; me gusta resolver problemas TI, soy feliz ayudando a los nesecita 😀;
+- 📫 &nbsp; no dude en visitarme en [LinkedIn](https://www.linkedin.com/in/hagitorres/)
+- 📚 &nbsp; cuando tengo tiempo libre me gusta conocer nuevas tecnologias y me gusta ver anime [crunchyroll](https://www.crunchyroll.com/es) tambien megusta hacer deporte(futbol)
+<br>
 
-<p align="center">
-  <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
-  <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
-  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.youtube.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
-  <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
-  <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
-  <a href="https://soundcloud.com/djmatyo91"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a>
-  <a href="https://medium.com/@matyo91"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://www.mixcloud.com/matyo91"><img src="https://img.icons8.com/windows/96/000000/mixcloud.png" alt="mixcloud"/></a>
-  <a href="https://keybase.io/matyo91"><img src="https://img.icons8.com/windows/96/000000/keybase2.png" alt="keybase"/></a>
-  <a href="https://steamcommunity.com/id/matyo91"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
-  <a href="https://vk.com/matyo91"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
-  <a href="https://open.spotify.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
-  <a href="https://tripadvisor.com/members/matyo91"><img src="https://img.icons8.com/color/96/000000/tripadvisor.png" alt="tripadvisor"/></a>
-  <a href="https://www.bandcamp.com/matyo91"><img src="https://img.icons8.com/nolan/96/bandcamp-button.png" alt="bandcamp"/></a>
-  <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-  <a href="https://connect.symfony.com/profile/matyo91"><img src="https://img.icons8.com/color/96/000000/symfony.png" alt="symfony"/></a>
-  <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
-  <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
-</p>
+<img  src="https://videogamesimg.s3.sa-east-1.amazonaws.com/iconPlataform/Sin+t%C3%ADtulo-1.png" height="auto" />
 
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
-</p>
+### 🔨 Languages and Tools:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://es.redux.js.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://www.svgrepo.com/show/354274/redux.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="C#" height ="42px"/> </a>
+
+
+<br>
+
+
 
 <!--
 **hagi-dev/hagi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
