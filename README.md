@@ -11,20 +11,20 @@ Soy programador full stack 🌐, UX/UI design 🎨 y analista de sistemas  🤖,
 <br/>
 
   
-### 🧐 More About Me:
+### 🧐 Mas sobre mi:
 
-- 🔭 &nbsp;actualmente trabajo en  **gallery art E-commerce**
-- 🌱 &nbsp; actualmente estoy aprendiendo Typescript y Angular; 
-- 👨🏻‍💻 &nbsp; estos son mis proyectos [Github](https://github.com/hagi-dev?tab=repositories)
-- 🎨🏻‍💻 &nbsp; estos son mis diseños de interfaces [Behance](https://www.behance.net/hagitorresmacedo)
+- 🔭 &nbsp;actualmente trabajo en  **gallery art E-commerce**;
+- 🌱 &nbsp;actualmente estoy aprendiendo Typescript y Angular; 
+- 👨🏻‍💻 &nbsp; estos son mis proyectos [Github](https://github.com/hagi-dev?tab=repositories);
+- 🎨🏻‍💻 &nbsp; estos son mis diseños de interfaces [Behance](https://www.behance.net/hagitorresmacedo);
 - 💬 &nbsp; me gusta resolver problemas TI, soy feliz ayudando a los nesecita 😀;
-- 📫 &nbsp; no dude en visitarme en [LinkedIn](https://www.linkedin.com/in/hagitorres/)
-- 📚 &nbsp; cuando tengo tiempo libre me gusta conocer nuevas tecnologias y me gusta ver anime [crunchyroll](https://www.crunchyroll.com/es) tambien megusta hacer deporte(futbol)
+- 📫 &nbsp; no dude en visitarme en [LinkedIn](https://www.linkedin.com/in/hagitorres/);
+- 📚 &nbsp; cuando tengo tiempo libre me gusta conocer nuevas tecnologias y me gusta ver anime [crunchyroll](https://www.crunchyroll.com/es) tambien megusta hacer deporte(futbol);
 <br>
 
 <img  src="https://videogamesimg.s3.sa-east-1.amazonaws.com/iconPlataform/Sin+t%C3%ADtulo-1.png" height="auto" />
 
-### 🔨 Languages and Tools:
+### 🔨 lenguajes y herramientas:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://es.redux.js.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://www.svgrepo.com/show/354274/redux.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
