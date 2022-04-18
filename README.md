@@ -17,7 +17,7 @@ Soy programador full stack 🌐, UX/UI design 🎨 y analista de sistemas  🤖,
 - 🌱 &nbsp;actualmente estoy aprendiendo Typescript y Angular; 
 - 👨🏻‍💻 &nbsp; estos son mis proyectos [Github](https://github.com/hagi-dev?tab=repositories);
 - 🎨🏻‍💻 &nbsp; estos son mis diseños de interfaces [Behance](https://www.behance.net/hagitorresmacedo);
-- 💬 &nbsp; me gusta resolver problemas TI, soy feliz ayudando a los nesecita 😀;
+- 💬 &nbsp; me gusta resolver problemas IT, soy feliz ayudando a los nesecita 😀;
 - 📫 &nbsp; no dude en visitarme en [LinkedIn](https://www.linkedin.com/in/hagitorres/);
 - 📚 &nbsp; cuando tengo tiempo libre me gusta conocer nuevas tecnologias y me gusta ver anime [crunchyroll](https://www.crunchyroll.com/es) tambien megusta hacer deporte(futbol);
 <br>
