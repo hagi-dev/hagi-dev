@@ -3,10 +3,12 @@
 <a href='https://www.behance.net/hagitorresmacedo'><img align='left' alt="twitter" src="https://www.citypng.com/public/uploads/preview/-31622227018ldvcsx8gnp.png" height='18px'/></a>
 <a href='https://platzi.com/p/hagi-rai-torres-macedo/'><img alt="kaggle" src="https://static.platzi.com/media/blog/unnamed-8089fc33-6322-4bd3-85de-1da032257d4b.png" height='18px'/></a>
 
+<!--
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
-
-
+-->
+<p align="left">
 Programador full stack 🌐, UX/UI design 🎨 y analista de sistemas  🤖, Experiencia trabajando con NODEJS, REACTJS, REDUX, SQL, FIGMA, PHP, JAVA y C# entre otras tecnologías del sector 💻 y además de colaborar con un proyecto de E-commerce de una galería de pinturas de las cuales mi rol era la de análisis y creación de las interfaces 🛠️. 
+</p>
 <br/>
 <br/>
 
