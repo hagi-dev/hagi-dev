@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
 -->
 <p align="left">
-Programador full stack 🌐, UX/UI design 🎨 y analista de sistemas  🤖, Experiencia trabajando con NODEJS, REACTJS, REDUX, SQL, FIGMA, PHP, JAVA y C# entre otras tecnologías del sector 💻 y además de colaborar con un proyecto de E-commerce de una galería de pinturas de las cuales mi rol era la de análisis y creación de las interfaces 🛠️. 
+Programador full stack 🌐, UI design 🎨 y analista de sistemas  🤖, Experiencia trabajando con NODEJS, REACTJS, REDUX, SQL, FIGMA, PHP, JAVA y C# entre otras tecnologías del sector 💻 y además de colaborar con un proyecto de E-commerce de una galería de pinturas de las cuales mi rol era la de análisis y creación de las interfaces 🛠️. 
 </p>
 <br/>
 <br/>
