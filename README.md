@@ -16,7 +16,7 @@ Programador full stack 🌐, UI design 🎨 y analista de sistemas  🤖, Experi
 ### 🧐 Mas sobre mi:
 
 - 🔭 &nbsp;actualmente trabajo en  **gallery art E-commerce**;
-- 🌱 &nbsp;actualmente estoy aprendiendo Typescript y Angular; 
+- 🌱 &nbsp;actualmente estoy aprendiendo MongoDB y Angular; 
 - 👨🏻‍💻 &nbsp; estos son mis proyectos [Github](https://github.com/hagi-dev?tab=repositories);
 - 🎨🏻‍💻 &nbsp; estos son mis diseños de interfaces [Behance](https://www.behance.net/hagitorresmacedo);
 - 💬 &nbsp; me gusta resolver problemas IT, soy feliz ayudando a los nesecita 😀;
@@ -35,6 +35,7 @@ Programador full stack 🌐, UI design 🎨 y analista de sistemas  🤖, Experi
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://www.svgrepo.com/show/353622/c-sharp.svg" alt="C#" height ="42px"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="C#" height ="42px"/> </a>
 
 
 <br>
