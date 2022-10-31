@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
 -->
 <p align="left">
-Programador full stack 🌐, UI design 🎨 y analista de sistemas  🤖, Experiencia trabajando con NODEJS, REACTJS, REDUX, SQL, FIGMA, PHP, JAVA y C# entre otras tecnologías del sector 💻 y además de colaborar con un proyecto de E-commerce de una galería de pinturas de las cuales mi rol era la de análisis y creación de las interfaces 🛠️. 
+Programador full stack 🌐, UI design 🎨 y analista de sistemas  🤖, Experiencia trabajando con NODEJS, REACTJS, ANGULAR, VTEX, REDUX, SQL, FIGMA, PHP, JAVA y C# entre otras tecnologías del sector 💻 y además de colaborar con un proyecto de E-commerce de una galería de pinturas de las cuales mi rol era la de análisis y creación de las interfaces 🛠️. 
 </p>
 <br/>
 <br/>
@@ -16,7 +16,7 @@ Programador full stack 🌐, UI design 🎨 y analista de sistemas  🤖, Experi
 ### 🧐 Mas sobre mi:
 
 - 🔭 &nbsp;actualmente trabajo en  **gallery art E-commerce**;
-- 🌱 &nbsp;actualmente estoy aprendiendo MongoDB y Angular; 
+- 🌱 &nbsp;actualmente estoy aprendiendo MongoDB y Elastic; 
 - 👨🏻‍💻 &nbsp; estos son mis proyectos [Github](https://github.com/hagi-dev?tab=repositories);
 - 🎨🏻‍💻 &nbsp; estos son mis diseños de interfaces [Behance](https://www.behance.net/hagitorresmacedo);
 - 💬 &nbsp; me gusta resolver problemas IT, soy feliz ayudando a los nesecita 😀;
