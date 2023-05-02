@@ -15,7 +15,7 @@ Programador full stack 🌐, UI design 🎨 y analista de sistemas  🤖, Experi
   
 ### 🧐 Mas sobre mi:
 
-- 🔭 &nbsp;actualmente trabajo en  **gallery art E-commerce**;
+- 🔭 &nbsp;actualmente trabajo en  **Arkana**;
 - 🌱 &nbsp;actualmente estoy aprendiendo MongoDB y Elastic; 
 - 👨🏻‍💻 &nbsp; estos son mis proyectos [Github](https://github.com/hagi-dev?tab=repositories);
 - 🎨🏻‍💻 &nbsp; estos son mis diseños de interfaces [Behance](https://www.behance.net/hagitorresmacedo);
